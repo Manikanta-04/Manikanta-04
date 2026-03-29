@@ -29,7 +29,7 @@
 ```python
 class Manikanta:
     name       = "Naripeddi Manikanta"
-    college    = "VRSEC — Batch 2027"
+    college    = "VRSEC IT — Batch 2027"
     role       = "Full Stack Developer & ML Engineer"
     location   = "Hyderabad, India 🇮🇳"
 
@@ -80,7 +80,7 @@ AI hospital routing — routes ambulances to the *right* hospital using Distance
 ### 🏉 PKL Match Winner Predictor
 ML web app predicting Pro Kabaddi League match outcomes — 59.85% accuracy with Gradient Boosting.
 
-**Stack:** Python · Flask · Streamlit · scikit-learn · Pandas
+**Stack:** Python · Streamlit · scikit-learn · Pandas
 
 [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://pkl-predictor.onrender.com)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/PKL_PREDICTION)
@@ -124,7 +124,7 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 </tr>
 </table>
 
-> 📌 View all projects → [github.com/Manikanta-04?tab=repositories](https://github.com/Manikanta-04?tab=repositories)
+> 📌 View all → [github.com/Manikanta-04?tab=repositories](https://github.com/Manikanta-04?tab=repositories)
 
 ---
 
@@ -173,10 +173,14 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Manikanta-04&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" />
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -186,7 +190,7 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Manikanta-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Manikanta-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -196,7 +200,7 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -205,12 +209,12 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 ## 🎯 What I'm Currently Working On
 
 ```
-🔭  Building DRISHTI v2 — adding satellite imagery + deep learning models
-🌱  Learning  — AWS Solutions Architect + System Design
-👯  Open to   — Hackathons, open source collabs, internship opportunities
-💬  Ask me    — Full stack architecture, ML deployment, React, Node.js
-📫  Reach me  — manikantachowdary296@gmail.com
-⚡  Fun fact  — I deploy every project I build. No "WIP" repos here.
+🔭  Building   — DRISHTI v2 with satellite imagery + deep learning models
+🌱  Learning   — AWS Solutions Architect + System Design
+👯  Open to    — Hackathons, open source collabs, internship opportunities
+💬  Ask me     — Full stack architecture, ML deployment, React, Node.js
+📫  Reach me   — manikantachowdary296@gmail.com
+⚡  Fun fact   — I deploy every project I build. No "WIP" repos here.
 ```
 
 ---
@@ -219,17 +223,10 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 - 🏆 Built & deployed **10+ full-stack and ML projects** — all live in production
 - 🌍 **DRISHTI** — Disaster management platform built for India's emergency response
-- 🚑 **Emergency Hospital System** — AI routing system covering 1,234+ real hospitals across AP + TN
+- 🚑 **Emergency Hospital System** — AI routing covering 1,234+ real hospitals (AP + TN)
 - 🤖 ML projects achieving **81% R² accuracy** (Student Salary Prediction)
 - ⚡ **CODEBID** — Real-time competitive coding platform built with MERN + Socket.io
-- 🎓 VRSEC CSE — Batch 2026 | Roll: **238W1A12A7**
-
----
-
-## 💡 Open Source Contributions
-
-> *(Add your open source PRs or contributions here)*
-> Example: `🔀 PR #123 — Fixed socket reconnection bug in [project]`
+- 🎓 VRSEC IT — Batch 2027 | Roll: **238W1A12A7**
 
 ---
 
@@ -247,7 +244,7 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Manikanta-04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Manikanta-04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
@@ -257,13 +254,13 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 ### 👀 Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=Manikanta-04&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Manikanta-04&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
-**💼 Open to SDE / Full Stack / ML Engineer roles — 2026 Batch**
+**💼 Open to SDE / Full Stack / ML Engineer roles — 2027 Batch**
 
-*If my work impressed you — let's connect on [LinkedIn](https://linkedin.com/in/manikanta-naripeddi-4326232a5/) or drop me an [email](mailto:manikantachowdary296@gmail.com)!*
+*If my work impressed you — let's connect on [LinkedIn](https://linkedin.com/in/manikanta-naripeddi-4326232a5/) or drop an [email](mailto:manikantachowdary296@gmail.com)!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
