@@ -190,7 +190,7 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manikanta-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manikanta-04&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" />
 
 </div>
 
@@ -244,7 +244,13 @@ Photorealistic 3D forest with real-world wind physics, 2000-particle pollen, god
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Manikanta-04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+| Repository | Stars | Forks |
+|---|---|---|
+| [🌍 drishti-disaster-command](https://github.com/Manikanta-04/drishti-disaster-command) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/drishti-disaster-command?style=flat-square&color=6366f1) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/drishti-disaster-command?style=flat-square&color=6366f1) |
+| [🚑 emergency-hospital-system](https://github.com/Manikanta-04/emergency-hospital-system) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/emergency-hospital-system?style=flat-square&color=6366f1) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/emergency-hospital-system?style=flat-square&color=6366f1) |
+| [🏉 PKL_PREDICTION](https://github.com/Manikanta-04/PKL_PREDICTION) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/PKL_PREDICTION?style=flat-square&color=6366f1) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/PKL_PREDICTION?style=flat-square&color=6366f1) |
+| [🎓 Student_Salary_prediction](https://github.com/Manikanta-04/Student_Salary_prediction) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/Student_Salary_prediction?style=flat-square&color=6366f1) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/Student_Salary_prediction?style=flat-square&color=6366f1) |
+| [🌌 Galaxy_relay-themed_online_chat](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/Galaxy_relay-themed_online_chat?style=flat-square&color=6366f1) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/Galaxy_relay-themed_online_chat?style=flat-square&color=6366f1) |
 
 </div>
 
