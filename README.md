@@ -25,54 +25,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp;`whoami`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```python
+class Manikanta:
+    name        = "Naripeddi Manikanta"
+    college     = "VRSEC IT, Vijayawada — Batch 2027"
+    cgpa        = 8.78
+    location    = "Ongole → Hyderabad, India 🇮🇳"
+    role        = "Full Stack Developer & ML/AI Engineer"
 
-### 👤 Who I Am
-🎓 **B.Tech IT** — VRSEC, Vijayawada *(Batch 2027)*
-📍 **Ongole → Hyderabad, India**
-⭐ **CGPA: 8.78 / 10**
-💼 **Role:** Full Stack Developer & ML/AI Engineer
+    languages   = ["Python", "C++", "Java", "JavaScript", "SQL"]
+    ml_stack    = ["TensorFlow", "PyTorch", "Scikit-learn", "LSTM", "BiLSTM", "Conv1D"]
+    frontend    = ["React.js", "Flutter", "HTML5", "CSS3", "Three.js", "GSAP"]
+    backend     = ["Node.js", "Express.js", "Flask", "FastAPI", "WebSockets", "REST APIs"]
+    databases   = ["MongoDB", "MySQL", "Firebase", "Supabase"]
+    tools       = ["Git", "Docker", "Linux", "Postman", "AWS", "Vercel", "Render"]
+    cloud       = ["AWS Academy (GenAI)", "AWS Data Engineering", "Streamlit Cloud"]
 
-### 🎯 What I'm Looking For
-- 🔍 **ML / SDE Internships — 2026**
-- 💼 **Full-time SDE / ML roles — 2027**
-- 🤝 Open to hackathons, open source & collabs
-
-### 💡 What Makes Me Different
-> I don't just build features — I build **complete products**.
-> From ML model → backend API → frontend UI → deployed live.
-> Every project I build ships to production. 🚀
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Core Expertise
-
-**Languages**
-`Python` `JavaScript` `Java` `C++` `SQL`
-
-**AI / ML**
-`TensorFlow` `PyTorch` `scikit-learn` `LSTM` `BiLSTM` `XGBoost`
-
-**Frontend**
-`React.js` `Three.js` `GSAP` `Flutter` `HTML5` `CSS3`
-
-**Backend**
-`Node.js` `Express.js` `FastAPI` `Flask` `WebSockets`
-
-**Databases**
-`MongoDB` `MySQL` `Firebase` `Supabase`
-
-**Cloud & Tools**
-`AWS` `Docker` `Linux` `Git` `Postman` `Vercel` `Render`
-
-</td>
-</tr>
-</table>
+    internships = ["Gen AI — AWS EduSkills (2026)", "Data Engineering & GenAI — EduSkills (2026)"]
+    certs       = ["CCNA — Cisco (2025)", "Cybersecurity Analyst — Cisco (2025)", "Python/C/C++ — Cisco (2024)"]
+    seeking     = "ML / SDE Internships 2026 | Full-time SDE roles 2027"
+    superpower  = "I build end-to-end: idea → ML model → backend → UI → deploy 🚀"
+```
 
 ---
 
@@ -104,6 +79,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io)
+[![WebSockets](https://img.shields.io/badge/WebSockets-4A90D9?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ### 🗄️ &nbsp;Databases & Cloud
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
@@ -125,6 +101,7 @@
 </div>
 
 ---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> &nbsp;Featured Projects
@@ -133,12 +110,13 @@
 
 | 🚀 Project | 🛠️ Stack | ⚡ Highlight | 🔗 Links |
 |---|---|---|---|
-| **🌍 DRISHTI — Disaster Command** | React · FastAPI · MongoDB · scikit-learn | Full-stack real-time disaster management + ML risk predictions | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://drishti-disaster-command.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/drishti-disaster-command) |
-| **🚑 Emergency Hospital System** | React · Node.js · MongoDB · Leaflet · OSRM | Real-time geospatial routing → best nearby hospital by bed + specialist | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://emergency-hospital-system.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/emergency-hospital-system) |
-| **🏉 PKL Match Predictor** | Python · Flask · Streamlit · scikit-learn | ML web app · 10 seasons of data · 59.85% accuracy | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://pkl-predictor.onrender.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/PKL_PREDICTION) |
-| **🌌 Galaxy Relay — Realtime Chat** | HTML · Supabase Realtime · WebSockets | Omnitrix-themed group chat · presence · reactions · <200ms latency | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://galaxy-relay-themed-online-chat.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) |
-| **💼 Part-Time Jobs Platform** | JavaScript · Node.js · MongoDB | Browse, post & apply for part-time jobs · auth + job management | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/part-time-jobs-platform) |
-| **🏆 CODEBID — Code Bidding Platform** | MERN · Socket.io · JWT | Real-time competitive coding · virtual coin bidding · 100+ participants | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/raghunadhchowdary1-del/CodeBid_Event-2k26) |
+| **🌍 DRISHTI — Disaster Command** | React · FastAPI · MongoDB · scikit-learn | AI-powered real-time disaster management | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://drishti-disaster-command.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/drishti-disaster-command) |
+| **🚑 Emergency Hospital Routing** | React · Node.js · MongoDB · Leaflet · OSRM | AI scoring → 30% faster emergency response | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://emergency-hospital-system.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/emergency-hospital-system) |
+| **🌫️ Smart Air Quality Monitor** | ESP32 · Flask · TensorFlow · BiLSTM · Firebase | Conv1D + BiLSTM → 30-min IoT predictions | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04) |
+| **🌌 Galaxy Relay — Realtime Chat** | JS · Supabase · WebSockets | <200ms latency · 100+ concurrent users | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://galaxy-relay-themed-online-chat.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) |
+| **🏉 PKL Match Predictor** | Python · Streamlit · scikit-learn | Gradient Boosting · 59.85% accuracy | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://pkl-predictor.onrender.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/PKL_PREDICTION) |
+| **🎓 Student Salary Predictor** | Python · XGBoost · Streamlit | 81% R² · CGPA + LeetCode + GitHub features | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://studentsalaryprediction-manikanta.streamlit.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Student_Salary_prediction) |
+| **🌲 ArborVeil — 3D Forest Page** | Three.js · GSAP · Vanilla JS | Real wind physics · 2000-particle pollen | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://manikanta-04.github.io/Forest_management/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Forest_management) |
 
 </div>
 
@@ -150,16 +128,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180em"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=6EE7F7&text_color=ffffff" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180em"/>
 
 </div>
 
 <div align="center">
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Manikanta-04&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
 
 </div>
 
@@ -167,7 +145,31 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FF6B6B" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 &nbsp;Coding Profiles & Stats
+
+<div align="center">
+
+### 🟡 LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-Manikanta__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manikanta_2004/)
+
+<img src="https://leetcard.jacoblin.cool/Manikanta_2004?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="70%"/>
+
+</div>
+
+<div align="center">
+
+### 🟢 GeeksForGeeks
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manikantanaripeddi)
+
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=manikantanaripeddi&theme=dark" width="70%"/>
 
 </div>
 
@@ -229,22 +231,6 @@
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🔝 &nbsp;Top Repos
-
-<div align="center">
-
-| Repository | Stars | Forks |
-|---|---|---|
-| [🌍 drishti-disaster-command](https://github.com/Manikanta-04/drishti-disaster-command) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/drishti-disaster-command?style=flat-square&color=6EE7F7) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/drishti-disaster-command?style=flat-square&color=6EE7F7) |
-| [🚑 emergency-hospital-system](https://github.com/Manikanta-04/emergency-hospital-system) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/emergency-hospital-system?style=flat-square&color=6EE7F7) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/emergency-hospital-system?style=flat-square&color=6EE7F7) |
-| [🏉 PKL_PREDICTION](https://github.com/Manikanta-04/PKL_PREDICTION) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/PKL_PREDICTION?style=flat-square&color=6EE7F7) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/PKL_PREDICTION?style=flat-square&color=6EE7F7) |
-| [🎓 Student_Salary_prediction](https://github.com/Manikanta-04/Student_Salary_prediction) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/Student_Salary_prediction?style=flat-square&color=6EE7F7) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/Student_Salary_prediction?style=flat-square&color=6EE7F7) |
-| [🌌 Galaxy_relay-themed_online_chat](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) | ![Stars](https://img.shields.io/github/stars/Manikanta-04/Galaxy_relay-themed_online_chat?style=flat-square&color=6EE7F7) | ![Forks](https://img.shields.io/github/forks/Manikanta-04/Galaxy_relay-themed_online_chat?style=flat-square&color=6EE7F7) |
 
 </div>
 
