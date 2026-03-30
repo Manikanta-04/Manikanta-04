@@ -125,7 +125,6 @@
 </div>
 
 ---
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> &nbsp;Featured Projects
@@ -134,13 +133,12 @@
 
 | 🚀 Project | 🛠️ Stack | ⚡ Highlight | 🔗 Links |
 |---|---|---|---|
-| **🌍 DRISHTI — Disaster Command** | React · FastAPI · MongoDB · scikit-learn | AI-powered real-time disaster management | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://drishti-disaster-command.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/drishti-disaster-command) |
-| **🚑 Emergency Hospital Routing** | React · Node.js · MongoDB · Leaflet · OSRM | AI scoring → faster ambulance dispatch | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://emergency-hospital-system.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/emergency-hospital-system) |
-| **🌫️ Smart Air Quality Monitor** | ESP32 · Flask · TensorFlow · BiLSTM · Firebase | Conv1D + BiLSTM → 30-min IoT predictions | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04) |
-| **🌌 Galaxy Relay — Realtime Chat** | JS · Supabase · WebSockets | <200ms latency · 100+ concurrent users | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://galaxy-relay-themed-online-chat.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) |
-| **🏉 PKL Match Predictor** | Python · Streamlit · scikit-learn | Gradient Boosting · 59.85% accuracy | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://pkl-predictor.onrender.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/PKL_PREDICTION) |
-| **🎓 Student Salary Predictor** | Python · XGBoost · Streamlit | 81% R² · CGPA + LeetCode + GitHub features | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://studentsalaryprediction-manikanta.streamlit.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Student_Salary_prediction) |
-| **🌲 ArborVeil — 3D Forest Page** | Three.js · GSAP · Vanilla JS | Real wind physics · 2000-particle pollen | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://manikanta-04.github.io/Forest_management/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Forest_management) |
+| **🌍 DRISHTI — Disaster Command** | React · FastAPI · MongoDB · scikit-learn | Full-stack real-time disaster management + ML risk predictions | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://drishti-disaster-command.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/drishti-disaster-command) |
+| **🚑 Emergency Hospital System** | React · Node.js · MongoDB · Leaflet · OSRM | Real-time geospatial routing → best nearby hospital by bed + specialist | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://emergency-hospital-system.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/emergency-hospital-system) |
+| **🏉 PKL Match Predictor** | Python · Flask · Streamlit · scikit-learn | ML web app · 10 seasons of data · 59.85% accuracy | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://pkl-predictor.onrender.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/PKL_PREDICTION) |
+| **🌌 Galaxy Relay — Realtime Chat** | HTML · Supabase Realtime · WebSockets | Omnitrix-themed group chat · presence · reactions · <200ms latency | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://galaxy-relay-themed-online-chat.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) |
+| **💼 Part-Time Jobs Platform** | JavaScript · Node.js · MongoDB | Browse, post & apply for part-time jobs · auth + job management | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/part-time-jobs-platform) |
+| **🏆 CODEBID — Code Bidding Platform** | MERN · Socket.io · JWT | Real-time competitive coding · virtual coin bidding · 100+ participants | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/raghunadhchowdary1-del/CodeBid_Event-2k26) |
 
 </div>
 
