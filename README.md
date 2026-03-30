@@ -128,16 +128,16 @@ class Manikanta:
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180em"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="180em"/>
 
 </div>
 
 <div align="center">
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Manikanta-04)
 
 </div>
 
@@ -173,7 +173,7 @@ class Manikanta:
 
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manikantanaripeddi)
 
-<img src="https://gfgstatscard.vercel.app/manikantanaripeddi" width="60%"/>
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/manikantanaripeddi)](https://www.geeksforgeeks.org/user/manikantanaripeddi/)
 
 </div>
 
