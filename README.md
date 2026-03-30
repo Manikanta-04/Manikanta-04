@@ -128,16 +128,16 @@ class Manikanta:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180em"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180em"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180em"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180em"/>
 
 </div>
 
 <div align="center">
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -158,18 +158,22 @@ class Manikanta:
 <div align="center">
 
 ### 🟡 LeetCode
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Manikanta__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manikanta_2004/)
 
-<img src="https://leetcard.jacoblin.cool/Manikanta_2004?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="70%"/>
+<img src="https://leetcard.jacoblin.cool/Manikanta_2004?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20&width=500" width="60%"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
 ### 🟢 GeeksForGeeks
+
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manikantanaripeddi)
 
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=manikantanaripeddi&theme=dark" width="70%"/>
+<img src="https://gfgstatscard.vercel.app/manikantanaripeddi" width="60%"/>
 
 </div>
 
