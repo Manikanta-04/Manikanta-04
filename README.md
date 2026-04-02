@@ -161,7 +161,11 @@ class Manikanta:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Manikanta__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manikanta_2004/)
 
-<img src="https://leetcard.jacoblin.cool/Manikanta_2004?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20&width=500" width="60%"/>
+<img src="https://leetcode-stats.vercel.app/api?username=Manikanta_2004&theme=dark" width="60%"/>
+
+<br/>
+
+<img src="https://leetcode-badge-sage.vercel.app/badge/Manikanta_2004?theme=dark&bgColor=1a1b27" width="40%"/>
 
 </div>
 
@@ -173,19 +177,7 @@ class Manikanta:
 
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manikantanaripeddi)
 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/manikantanaripeddi)](https://www.geeksforgeeks.org/user/manikantanaripeddi/)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manikanta-04&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4&row=2" />
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=manikantanaripeddi&theme=dark" width="60%"/>
 
 </div>
 
