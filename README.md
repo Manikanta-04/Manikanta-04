@@ -121,36 +121,16 @@ class Manikanta:
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" /> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180em"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="180em"/>
-
-</div>
-
-<div align="center">
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Manikanta-04)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
 ---
-
+<div align="center">
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Manikanta-04)
+</div>
+<br/>
+<div align="center">
+<img src="https://github-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 &nbsp;Coding Profiles & Stats
