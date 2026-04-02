@@ -161,11 +161,12 @@ class Manikanta:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Manikanta__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manikanta_2004/)
 
-<img src="https://leetcode-stats.vercel.app/api?username=Manikanta_2004&theme=dark" width="60%"/>
+<img src="https://leetcard.jacoblin.cool/Manikanta_2004?theme=dark&font=JetBrains%20Mono&border=0&radius=20&width=500&ext=heatmap" width="60%"/>
 
 <br/>
 
-<img src="https://leetcode-badge-sage.vercel.app/badge/Manikanta_2004?theme=dark&bgColor=1a1b27" width="40%"/>
+<!-- Solved count ring: shows Easy / Medium / Hard totals -->
+<img src="https://leetcode-stats-six.vercel.app/api?username=Manikanta_2004&theme=dark" width="55%"/>
 
 </div>
 
@@ -177,7 +178,12 @@ class Manikanta:
 
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manikantanaripeddi)
 
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=manikantanaripeddi&theme=dark" width="60%"/>
+<img src="https://gfgstatscard.vercel.app/manikantanaripeddi" width="55%"/>
+
+<br/>
+
+<!-- Fallback: detailed GFG stats -->
+<img src="https://geeksforgeeks-stats-api-and-cards.vercel.app/api/gfg-streak-stats?userName=manikantanaripeddi" width="55%"/>
 
 </div>
 
