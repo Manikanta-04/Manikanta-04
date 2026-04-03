@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=6EE7F7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=🚀+Full+Stack+Developer+%7C+ML+Engineer;🧠+Deep+Learning+%7C+LSTM+%7C+BiLSTM+%7C+PyTorch;⚡+Real-Time+Systems+%7C+WebSocket+Architect;☁️+GenAI+%7C+AWS+Cloud+%7C+IoT+Builder;🌍+Turning+Ideas+→+Production+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=6EE7F7&center=true&vCenter=true&multiline=false&width=750&height=60&lines=🚀+MERN+Stack+Developer+%7C+ML+Engineer;🧠+Deep+Learning+%7C+LSTM+%7C+BiLSTM+%7C+PyTorch;⚡+Real-Time+Systems+%7C+WebSocket+Architect;☁️+GenAI+%7C+AWS+Cloud+%7C+IoT+Builder;🌍+Turning+Ideas+→+Production+Apps)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,37 +29,24 @@
 
 ```python
 class Manikanta:
+    name        = "Naripeddi Manikanta"
+    college     = "VRSEC IT, Vijayawada — Batch 2027"
+    cgpa        = 8.78
+    location    = "Ongole → Hyderabad, India 🇮🇳"
+    role        = "Full Stack Developer & ML/AI Engineer"
 
-    # ── Identity ──────────────────────────────────────
-    name           = "Naripeddi Manikanta"
-    institute      = "VRSEC — IT, Vijayawada  |  Batch 2027"
-    cgpa           = 8.78                    # top 10% of cohort
-    location       = "Hyderabad, India 🇮🇳"
-    role           = "MERN Stack Developer  &  ML/AI Engineer"
+    languages   = ["Python", "C++", "Java", "JavaScript", "SQL"]
+    ml_stack    = ["TensorFlow", "PyTorch", "Scikit-learn", "LSTM", "BiLSTM", "Conv1D"]
+    frontend    = ["React.js", "Flutter", "HTML5", "CSS3", "Three.js", "GSAP"]
+    backend     = ["Node.js", "Express.js", "Flask", "FastAPI", "WebSockets", "REST APIs"]
+    databases   = ["MongoDB", "MySQL", "Firebase", "Supabase"]
+    tools       = ["Git", "Docker", "Linux", "Postman", "AWS", "Vercel", "Render"]
+    cloud       = ["AWS Academy (GenAI)", "AWS Data Engineering", "Streamlit Cloud"]
 
-    # ── Stack ─────────────────────────────────────────
-    languages      = ["Python", "JavaScript", "C++", "Java", "SQL"]
-    frontend       = ["React.js", "Three.js", "GSAP", "Flutter", "HTML5", "CSS3"]
-    backend        = ["Node.js", "Express.js", "FastAPI", "Flask", "WebSockets"]
-    databases      = ["MongoDB", "MySQL", "Firebase", "Supabase"]
-    ml_stack       = ["PyTorch", "TensorFlow", "Scikit-learn", "LSTM", "BiLSTM"]
-    cloud          = ["AWS (GenAI)", "AWS Data Engg", "Vercel", "Render"]
-    tools          = ["Git", "Docker", "Linux", "Postman"]
-
-    # ── Experience ────────────────────────────────────
-    internships    = [
-        "Gen AI Intern         —  AWS EduSkills  (2026)",
-        "Data Engg & GenAI    —  AWS EduSkills  (2026)",
-    ]
-    certifications = [
-        "CCNA                  —  Cisco  (2025)",
-        "Cybersecurity Analyst —  Cisco  (2025)",
-        "Python / C / C++      —  Cisco  (2024)",
-    ]
-
-    # ── Goals ─────────────────────────────────────────
-    open_to        = "SDE / ML Internships 2026  |  Full-time SDE 2027"
-    superpower     = "Idea → Model → API → UI → Prod. All by myself."
+    internships = ["Gen AI — AWS EduSkills (2026)", "Data Engineering & GenAI — EduSkills (2026)"]
+    certs       = ["CCNA — Cisco (2025)", "Cybersecurity Analyst — Cisco (2025)", "Python/C/C++ — Cisco (2024)"]
+    seeking     = "ML / SDE Internships 2026 | Full-time SDE roles 2027"
+    superpower  = "I build end-to-end: idea → ML model → backend → UI → deploy 🚀"
 ```
 
 ---
