@@ -126,41 +126,13 @@ class Manikanta:
 
 ## 📊 &nbsp;GitHub Stats
 
-<div align="center">
+<div align="center"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manikanta-04&theme=tokyonight" alt="GitHub Stats" width="49%"/></div>
 
-<!-- GitHub Streak — uses reliable community-hosted Vercel instance -->
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%"/>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manikanta-04&theme=tokyonight" alt="Repos per Language" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manikanta-04&theme=tokyonight" alt="Most Commit Language" width="32%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manikanta-04&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%"/></div>
 
-<!-- GitHub Stats Card — profile-summary-cards is stable and actively maintained -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manikanta-04&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikanta-04&theme=tokyonight" alt="Profile Details" width="98%"/></div>
 
-</div>
-
-<div align="center">
-
-<!-- Contribution graph by language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manikanta-04&theme=tokyonight" alt="Repos per Language" width="32%"/>
-
-<!-- Most commit language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manikanta-04&theme=tokyonight" alt="Most Commit Language" width="32%"/>
-
-<!-- Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manikanta-04&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%"/>
-
-</div>
-
-<div align="center">
-
-<!-- Full profile details bar -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikanta-04&theme=tokyonight" alt="Profile Details" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+<div align="center"><img src="https://github-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="98%"/></div>
 
 ---
 
