@@ -112,7 +112,7 @@ class Manikanta:
 |---|---|---|---|
 | **🌍 DRISHTI — Disaster Command** | React · FastAPI · MongoDB · scikit-learn | AI-powered real-time disaster management | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://drishti-disaster-command.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/drishti-disaster-command) |
 | **🚑 Emergency Hospital Routing** | React · Node.js · MongoDB · Leaflet · OSRM | AI scoring → 30% faster emergency response | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://emergency-hospital-system.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/emergency-hospital-system) |
-| **🌫️ Smart Air Quality Monitor** | ESP32 · Flask · TensorFlow · BiLSTM · Firebase | Conv1D + BiLSTM → 30-min IoT predictions | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04) |
+| **🌫️ Smart Air Quality Monitor** | ESP32 · Flask · TensorFlow · BiLSTM · Firebase | Conv1D + BiLSTM → 30-min IoT predictions | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/manikantac4/EPICS-FRONTEND) |
 | **🌌 Galaxy Relay — Realtime Chat** | JS · Supabase · WebSockets | <200ms latency · 100+ concurrent users | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://galaxy-relay-themed-online-chat.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Galaxy_relay-themed_online_chat) |
 | **🏉 PKL Match Predictor** | Python · Streamlit · scikit-learn | Gradient Boosting · 59.85% accuracy | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://pkl-predictor.onrender.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/PKL_PREDICTION) |
 | **🎓 Student Salary Predictor** | Python · XGBoost · Streamlit | 81% R² · CGPA + LeetCode + GitHub features | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://studentsalaryprediction-manikanta.streamlit.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Manikanta-04/Student_Salary_prediction) |
@@ -126,10 +126,24 @@ class Manikanta:
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Manikanta-04)
 </div>
+
+<div align="center">
+
+![Manikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
 <br/>
 <div align="center">
 <img src="https://github-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
+
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
