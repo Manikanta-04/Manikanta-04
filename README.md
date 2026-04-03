@@ -121,30 +121,49 @@ class Manikanta:
 </div>
 
 ---
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp;GitHub Stats
+
 <div align="center">
+
+<!-- GitHub Streak — uses reliable community-hosted Vercel instance -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%"/>
+
+<!-- GitHub Stats Card — profile-summary-cards is stable and actively maintained -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manikanta-04&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Contribution graph by language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manikanta-04&theme=tokyonight" alt="Repos per Language" width="32%"/>
+
+<!-- Most commit language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manikanta-04&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+
+<!-- Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manikanta-04&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Full profile details bar -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikanta-04&theme=tokyonight" alt="Profile Details" width="95%"/>
+
+</div>
+
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manikanta-04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Manikanta-04)
-</div>
 
-<div align="center">
-
-![Manikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikanta-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-<br/>
 <div align="center">
 <img src="https://github-activity-graph.vercel.app/graph?username=Manikanta-04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 &nbsp;Coding Profiles & Stats
@@ -165,10 +184,11 @@ class Manikanta:
 
 ### 🟢 GeeksForGeeks
 
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manikantanaripeddi)
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-manikantanaripeddi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/manikantanaripeddi)
 
-<a href="https://www.geeksforgeeks.org/profile/manikantanaripeddi">
-  <img src="https://geeks-for-geeks-stats-api-and-cards.vercel.app/?userName=manikantanaripeddi" alt="GFG Stats" width="55%"/>
+<!-- gfgstatscard.vercel.app — dedicated GFG stats API, actively maintained -->
+<a href="https://www.geeksforgeeks.org/user/manikantanaripeddi">
+  <img src="https://gfgstatscard.vercel.app/manikantanaripeddi" alt="GFG Stats Card" width="55%"/>
 </a>
 
 </div>
